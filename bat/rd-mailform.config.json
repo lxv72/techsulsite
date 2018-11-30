@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "mail.techsul.pt",
+  "port": 465,
+  "username": "noreply@techsul.pt",
+  "password": "80008000",
+  "recipientEmail": "info@techsul.pt"
+}
