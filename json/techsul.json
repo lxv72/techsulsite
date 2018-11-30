@@ -1,0 +1,112 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "swiper" :
+	[ 
+        { "image": "images/slider-classic-slide-3-1920x710.jpg", "title": "Bem-vindo à Techsul", "subtitle": "As melhores soluções para a área do retalho e mobilidade"},
+        { "image": "images/slider-classic-slide-1-1920x710.jpg", "title": "Software de Gestão PHC", "subtitle": "Acelere os seus negócios com a Techsul"},
+        { "image": "images/slider-classic-slide-2-1920x1280.jpg", "title": "Software Certificado", "subtitle": "Serviços Líderes para a sua restauração"}
+  	],
+    "software" : 
+	[
+	    { "image": "images/logos/techpos_logos.jpg", "title": "TECHPOS", "link": "software-techpos", "text": "Com a PHC poderá escolher quais as áreas da sua organização que pretende aperfeiçoar e modernizar"},    
+	    { "image": "images/logos/techrest_logos.jpg", "title": "TECHREST", "link": "software-techrest", "text": "Pensar à frente. A vantagem competitiva da microempresa em técnologia cloud"},
+	    { "image": "images/logos/techsul_logos.jpg", "title": "QTICKET", "link": "software-qticket", "text": "A solução ideal para a gestão de filas no seu negócio. Desenvolvida especificamente para Android para poder instalar em qualquer tablet ou smartphone!"},
+	    { "image": "images/logos/mobile_logos.jpg", "title": "Mobile Suport", "link": "software-mobile-suport", "text": "Mobile Support System permite o acesso a Pedidos de Assistência Técnica em aberto e intervenções, o preenchimento de relatórios de intervenções e a sincronização imediata com a sede."}, 
+	    { "image": "images/logos/mobile_logos.jpg", "title": "Mobile Logistic", "link": "software-mobile-logistic", "text": "Pensar à frente. A vantagem competitiva da microempresa em técnologia cloud."},
+	    { "image": "images/logos/tripmanager_logos.png", "title": "Trip Manager", "link": "software-tripmanager", "text": "O Tripmanager é um sistema integrado de gestão de bilhetica que abrange todas as áreas do negócio."},	
+	    { "image": "images/logos/phc_logos.png", "title": "PHC", "link": "software-phc", "text": "Com a PHC poderá escolher quais as áreas da sua organização que pretende aperfeiçoar e modernizar."}, 
+	    { "image": "images/logos/zonesoft_logos.jpg", "title": "ZONESOFT", "link": "software-zonesoft", "text": "As melhores soluções de retalho e restauração."},
+	    { "image": "images/logos/etpos_logos.png", "title": "ETPOS", "link": "software-etpos", "text": "Avançada tecnologia ao serviço da pesagem."}
+	],
+    "prices" :
+	[
+        {"title": "Tripmanager", "prefered": "", "price": 149, "link": "#pricing", "setup": "Central de Reservas Online", "features":["Maritimo Turisticas","Sem limite de postos","Pagamentos Online","Dashboard","Mais informação em www.tripmanager.pt"]},
+        {"title": "ZSPOS", "prefered": "_prefered", "price": 29, "link": "software-zonesoft", "setup": "Software simples e intuitivo", "features":["Inclui 99 postos","Múltiplos periféricos","Actualizações incluidas","Certificação AT","Backups Automáticos","Backoffice WEB"]},
+        {"title": "ZSREST", "prefered": "", "price": 39, "link": "software-zonesoft", "setup": "Inclui PDAs e comandos X64", "features":["Inclui 99 postos","Múltiplos periféricos","Actualizações incluidas","Certificação AT","Backups Automáticos","Backoffice WEB"]}
+	],
+    "reasons" :
+	[
+        {"icon": "cog", "title": "Organização", "text": "Utilizamos como base uma estrutura sólida e bem organizada."},		
+        {"icon": "star", "title": "Qualidade", "text": "Mais de 500 clientes recomendam o nosso serviço de qualidade."}, 
+        {"icon": "book", "title": "Conhecimento", "text": "Um conhecimento profundo das necessidades de gestão das empresas."}, 
+        {"icon": "users", "title": "Credibilidade", "text": "Os principais fornecedores de Software e Hardware confiam em nós."}, 
+        {"icon": "chart-growth", "title": "Competência", "text": "Uma equipa formada por profissionais altamente qualificados."} 
+	],
+    "quotes" :
+	[
+        {"image": "images/solverde-112x99.png", "title": "José Godinho", "subtitle": "Solverde", "text": "Assim que começamos a trabalhar com a Techsul, constatámos que temos um parceiro com competência e eficácia nas diversas áreas que conosco trabalham. Não podimos ter encontrado melhor e tão perto de nós."}, 
+        {"image": "images/century21-112x99.jpg", "title": "Fernando da Ponte", "subtitle": "Century21 Angola", "text": "Mesmo a 8.000 km de distancia a Techsul tem respondido a todos as solicitações da Condo®, criando uma ferramenta de trabalho para a gestão de condomínios, que veio de alguma forma revolucionar a prestação de serviços de gestão de condomínios em Angola e aproximar os condóminos da gestão."}
+	],
+    "partners" : 
+	[
+        { "image": "images/portfolio/active4.png", "title": "Active 4"},
+        { "image": "images/portfolio/ae.png", "title": "Active 4"},
+        { "image": "images/portfolio/albusado.png", "title": "Active 4"},
+        { "image": "images/portfolio/ama.png", "title": "Active 4"},
+        { "image": "images/portfolio/aruina.png", "title": "Active 4"},
+        { "image": "images/portfolio/bluestar.png", "title": "Active 4"},
+        { "image": "images/portfolio/casanostra.png", "title": "Active 4"},
+        { "image": "images/portfolio/century21Angola.png", "title": "Active 4"},
+        { "image": "images/portfolio/luiscunha.png", "title": "Active 4"},
+        { "image": "images/portfolio/decorvidro.png", "title": "Active 4"},
+        { "image": "images/portfolio/equiauto.png", "title": "Active 4"},    
+        { "image": "images/portfolio/logoEsa.png", "title": "Active 4"},
+        { "image": "images/portfolio/fortedovale.png", "title": "Active 4"},
+        { "image": "images/portfolio/logogalejardins.png", "title": "Active 4"},
+        { "image": "images/portfolio/galetaxis.png", "title": "Galé Taxis"},
+        { "image": "images/portfolio/grancafe.png", "title": "Gran Café"},
+        { "image": "images/portfolio/grupoliberto.png", "title": "Grupo Liberto"},
+        { "image": "images/portfolio/imagine.png", "title": "Imagine"},
+        { "image": "images/portfolio/kissfm.png", "title": "Kiss FM Algarve"},
+        { "image": "images/portfolio/libertosbar.png", "title": "Libertos Lounge Club"},
+        { "image": "images/portfolio/lojacidadao.png", "title": "Loja do Cidadão"},
+        { "image": "images/portfolio/lusoaventura.png", "title": "Luso Aventura"},
+        { "image": "images/portfolio/marsolve.png", "title": "Mar Solve"},
+        { "image": "images/portfolio/monicabarreto.png", "title": "Monica & Barreto"},
+        { "image": "images/portfolio/mslaser.png", "title": "MS Laser"},
+        { "image": "images/portfolio/mundodocafe.png", "title": "Mundo do Café Delta"},
+        { "image": "images/portfolio/naturetica.png", "title": "Naturética"},
+        { "image": "images/portfolio/nicetuktuk.png", "title": "Nice Tuk Tuk"},
+        { "image": "images/portfolio/nicetrip.png", "title": "Nice Trip Rent-a-car"},
+        { "image": "images/portfolio/oliva.png", "title": "Oliva"},
+        { "image": "images/portfolio/panitomole.png", "title": "Panito Mole"},
+        { "image": "images/portfolio/paodaaldeia.png", "title": "Pão da Aldeia"},
+        { "image": "images/portfolio/procitrus.png", "title": "Ocean Eye"},
+        { "image": "images/portfolio/santacasaalbufeira.png", "title": "Santa Casa de Albufeira"},
+        { "image": "images/portfolio/logoFederacaoCacadores.png", "title": "Federação Caçadores"},
+        { "image": "images/portfolio/solmg.png", "title": "Solverde"},
+        { "image": "images/portfolio/casinomontegordo.png", "title": "Solverde Casino Montegordo"},
+        { "image": "images/portfolio/solar.png", "title": "Solar FM"},
+        { "image": "images/portfolio/tesouros.png", "title": "Tesouros do Mundo"},
+        { "image": "images/portfolio/verdeminho.png", "title": "Verde Minho"},
+        { "image": "images/portfolio/vogtry.png", "title": "Active 4"},
+        { "image": "images/portfolio/costanova.png", "title": "Active 4"},
+        { "image": "images/portfolio/aveiroemotions.png", "title": "Aveiro Emotions"}
+	],
+    "policies" : 
+	[
+        { "id":"1", "title": "General information", "content": "Welcome to our Privacy Policy page! When you use our web site services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. When you share information with us, we can make our services even better for you. For instance, we can show you more relevant search results and ads, help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. This is important; we hope you will take time to read it carefully. Remember, you can find controls to manage your information and protect your privacy and security. We’ve tried to keep it as simple as possible."},
+        { "id":"2",	"title": "Right to Access, Correct and Delete Data", "content": "Our customers have the right to access, correct and delete personal data relating to them, and to object to the processing of such data, by addressing a written request, at any time. The Company makes every effort to put in place suitable precautions to safeguard the security and privacy of personal data, and to prevent it from being altered, corrupted, destroyed or accessed by unauthorized third parties. However, the Company does not control each and every risk related to the use of the Internet, and therefore warns the Site users of the potential risks involved in the functioning and use of the Internet. The Site may include links to other web sites or other internet sources. As the Company cannot control these web sites and external sources, the Company cannot be held responsible for the provision or display of these web sites and external sources, and may not be held liable for the content, advertising, products, services or any other material available on or from these web sites or external sources."},
+        { "id":"3",	"title": "Management of Personal Data", "content": "You can view or edit your personal data online for many of our services. You can also make choices about our collection and use of your data. How you can access or control your personal data will depend on which services you use. You can choose whether you wish to receive promotional communications from our web site by email, SMS, physical mail, and telephone. If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message. You can also make choices about the receipt of promotional email, telephone calls, and postal mail by visiting and signing into Company Promotional Communications Manager, which allows you to update contact information, manage contact preferences, opt out of email subscriptions, and choose whether to share your contact information with our partners. These choices do not apply to mandatory service communications that are part of certain web site services."},
+        { "id":"4", "title": "Information We Collect", "content": "Our store collects data to operate effectively and provide you the best experiences with our services. You provide some of this data directly, such as when you create a personal account. We get some of it by recording how you interact with our services by, for example, using technologies like cookies, and receiving error reports or usage data from software running on your device. We also obtain data from third parties (including other companies). For example, we supplement the data we collect by purchasing demographic data from other companies. We also use services from other companies to help us determine a location based on your IP address in order to customize certain services to your location. The data we collect depends on the services and features you use."},
+        { "id":"5",	"title": "How We Use Your Information", "content": "Our web site uses the data we collect for three basic purposes: to operate our business and provide (including improving and personalizing) the services we offer, to send communications, including promotional communications, and to display advertising. In carrying out these purposes, we combine data we collect through the various web site services you use to give you a more seamless, consistent and personalized experience. However, to enhance privacy, we have built in technological and procedural safeguards designed to prevent certain data combinations. For example, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address or phone number."},
+        { "id":"6",	"title": "Sharing Your Information", "content": "We share your personal data with your consent or as necessary to complete any transaction or provide any service you have requested or authorized. For example, we share your content with third parties when you tell us to do so. When you provide payment data to make a purchase, we will share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction. In addition, we share personal data among our controlled affiliates and subsidiaries. We also share personal data with vendors or agents working on our behalf for the purposes described in this statement. For example, companies we've hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal data in order to provide those functions. In such cases, these companies must abide by our data privacy and security requirements and are not allowed to use personal data they receive from us for any other purpose. We may also disclose personal data as part of a corporate transaction such as a merger or sale of assets."}
+	],
+    "cookies" : 
+	[
+        {"id":"1", "title": "O que são?", "content": "<p>Os cookies são pequenos ficheiros de texto que um site, ao ser visitado pelo utilizador, coloca no seu computador ou no seu dispositivo móvel através do navegador de internet (browser). A colocação de cookies ajudará o site a reconhecer o seu dispositivo na próxima vez que o utilizador o visita. Usamos o termo cookies nesta política para referir todos os ficheiros que recolhem informações desta forma.<\/p><p>Os cookies utilizados não recolhem informação que identifica o utilizador. Os cookies recolhem informações genéricas, designadamente a forma como os utilizadores chegam e utilizam os sites ou a zona do país/países através do qual acedem ao site, etc.<\/p><p>Os cookies retêm apenas informação relacionada com as suas preferências.<\/p><p>A qualquer momento o utilizador pode, através do seu navegador de internet (browser) decidir ser notificado sobre a receção de cookies, bem como bloquear a respetiva entrada no seu sistema.<\/p><p>A recusa de uso de cookies no site, pode resultar na impossibilidade de ter acesso a algumas das suas áreas<\/p>"},
+        {"id":"2", "title": "Finalidade", "content": "<p>Os cookies são usados para ajudar a determinar a utilidade, interesse e o número de utilizações dos sites, permitindo uma navegação mais rápida e eficiente e eliminando a necessidade de introduzir repetidamente as mesmas informações.<\/p>"},
+        {"id":"3", "title": "Tipos", "content": "<p>Os nossos cookies têm diferentes funções:<\/p><ul><li><strong>Cookies essenciais<\/strong> - Alguns cookies são essenciais para aceder a áreas específicas do nosso site. Permitem a navegação no site e a utilização das suas aplicações, tal como aceder a áreas seguras do site através de login. Sem estes cookies, os serviços que o exijam não podem ser prestados.<\/li><li><strong>Cookies analíticos<\/strong> - Utilizamos estes cookies para analisar a forma como os utilizadores usam o site e monitorar a performance deste. Isto permite-nos fornecer uma experiência de alta qualidade ao personalizar a nossa oferta e rapidamente identificar e corrigir quaisquer problemas que surjam. Por exemplo, usamos cookies de desempenho para saber quais as páginas mais populares, qual o método de ligação entre páginas que é mais eficaz, ou para determinar a razão de algumas páginas estarem a receber mensagens de erro. Baseado na utilização do site, podemos também utilizar estes cookies para destacar artigos ou serviços do site que pensamos ser do interesse dos utilizadores. Estes cookies são utilizados apenas para efeitos de criação e análise estatística, sem nunca recolher informação de caráter pessoal.<\/li><li><strong>Cookies de funcionalidade<\/strong> - Utilizamos cookies de funcionalidade para nos permitir relembrar as preferências do utilizador. Por exemplo, os cookies evitam digitar o nome do utilizador cada vez que este acede ao site. Também usamos cookies de funcionalidade para fornecer serviços avançados ao utilizador, como por exemplo efetuar comentários a um artigo. Em resumo, os cookies de funcionalidade guardam as preferências do utilizador relativamente à utilização do site, de forma que não seja necessário voltar a configurar o site cada vez que o visita.<\/li><li><strong>Cookies de terceiros<\/strong> - Servem para medir o sucesso de aplicações e a eficácia da publicidade de terceiros.<\/li><\/ul>"},
+        {"id":"4", "title": "Duração", "content": "<ul><li><strong>Cookies permanentes<\/strong> - Ficam armazenados ao nível do navegador de internet (browser) nos seus dispositivos de acesso (pc, mobile e tablet) e são utilizados sempre que o utilizador faz uma nova visita ao site. Geralmente são utilizados para direcionar a navegação de acordo com os interesses do utilizador, permitindo-nos prestar um serviço mais personalizado.<\/li><li><strong>Cookies de sessão<\/strong> - São temporários, permanecem nos cookies do seu navegador de internet (browser) até sair do site. A informação obtida permite identificar problemas e fornecer uma melhor experiencia de navegação.<\/li><\/ul>"},
+        {"id":"5", "title": "Bloqueio", "content": "<p>Como explicámos os cookies ajudam-no a tirar o máximo proveito do nosso site.<\/p><p>Depois de autorizar o uso de cookies, o utilizador pode sempre desativar parte ou a totalidade dos nossos cookies (consulte a área de ajuda do seu browser para saber como o fazer).<\/p><p>Recordamos que ao desativar os cookies, partes do nosso site podem não funcionar corretamente.<\/p>"}
+	],
+    "faqs" :
+    [
+        {"id":"1", "type":"TechPOS"},
+        {"id":"2", "type":"TechREST"},
+        {"id":"3", "type":"PHC"},
+        {"id":"4", "type":"Zonesoft"},
+        {"id":"5", "type":"Tripmanager"}
+    ]
+}
